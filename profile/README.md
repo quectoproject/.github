@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="./quectoWithBackground.png" height="320" />
+<img src="https://github.com/quectoproject/.github/blob/main/profile/quectoWithBackground.png?raw=true" height="320" />
 </p>
 
 > **It’s not an embedded Linux distribution,
